@@ -17,7 +17,7 @@ _npm i && npm start_
 
 *Enjoy* :heart:
 
-<a href="https://giphy.com/gifs/react-javascript-QvqikHzYfUOyiUGkMv">via GIPHY</a>
+![](Javascript GIF-source.gif)
 
 
 
